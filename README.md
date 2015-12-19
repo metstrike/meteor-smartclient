@@ -1,6 +1,16 @@
 ### meteor-smartclient
 
-Wrapper for powerful javascript frontend library SmartClient developed by Isomorphic Software (smartclient.com). Only code and resources covered by LGPL license are included in this package.
+Wrapper for powerful javascript frontend library SmartClient developed by Isomorphic Software (http://smartclient.com). Only code and resources covered by LGPL license are included in this package.
+
+### Installation
+
+```
+meteor add metstrike:meteor-smartclient
+```
+
+### Examples
+See https://github.com/metstrike/meteor-smartclient-demo for a demo with a few examples.
+![Screenshot](http://snag.gy/9OKUZ.jpg)
 
 ### License
 
