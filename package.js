@@ -2,7 +2,7 @@ Package.describe({
   name: 'metstrike:meteor-smartclient',
   version: '10.1.0',
   // Brief, one-line summary of the package.
-  summary: 'Wrapper package for robust and powerful UI library SmartClient. Exposing all LGPL code and files as assets',
+  summary: 'Wrapper package for enterprise web applications library SmartClient',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/metstrike/meteor-smartclient',
   // By default, Meteor will default to using README.md for documentation.
